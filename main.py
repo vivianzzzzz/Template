@@ -12,4 +12,4 @@ def f(s):
     return largest
 
 if __name__ == "__main__":
-    print(f("cabcdcc"))
+    print(f("ccabdec"))
