@@ -14,7 +14,6 @@ uvicorn==0.18.3
 
 seaborn
 matplotlib
-pandas
-sylearn
+pandas==1.1.3
 
 
